@@ -6,4 +6,4 @@
 # Current Version
 > V1.0 (BETA)
 
-https://tenor.com/view/kirby-gif-6975858996240977311
+![image](https://github.com/user-attachments/assets/10c9ec4f-0687-40f8-9a33-5aacd76deceb)
